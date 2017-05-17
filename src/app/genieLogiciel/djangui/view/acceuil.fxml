@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="617.0" prefWidth="1146.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="326.0" fitWidth="537.0" layoutX="305.0" layoutY="21.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../resources/welcome.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="178.0" fitWidth="248.0" layoutX="460.0" layoutY="309.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../resources/toDjangui.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
